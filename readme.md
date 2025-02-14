@@ -1,6 +1,8 @@
 # Northwind SQL Analysis 🚀
 
 Este repositorio contiene consultas avanzadas en MySQL usando la base de datos Northwind.
+Las consultas están diseñadas para extraer información valiosa sobre las ventas, productos y clientes, proporcionando análisis detallados, como el análisis de ventas por categoría, clientes con más pedidos, productos más vendidos, y clasificación de empleados por total de ventas. 
+
 
 ## 🔍 Consultas Destacadas
 - Análisis de ventas por categoría con `GROUP BY` y `HAVING`
